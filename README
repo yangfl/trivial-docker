@@ -1,0 +1,2 @@
+Docker api for Common Lisp.
+The package is usable but doesn't cover all functions. Feel free to add functions you want.
